@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">贝贝听写</string>
+    <string name="button_load">选择听写文件</string>
+    <string name="button_prev">上一个</string>
+    <string name="button_next">下一个</string>
+    <string name="button_play">朗读</string>
+    <string name="tv_filename_default">未选择听写文件</string>
+    <string name="msg_initialize_fail">初始化错误,应用无法启动!</string>
+    <string name="msg_choose_file">请选择听写文件</string>
+    <string name="msg_need_install_file_explorer">请安装文件管理器!</string>
+    <string name="msg_open_file_fail">文件打开失败!</string>
+    <string name="msg_read_file_fail">文件读取失败!</string>
+    <string name="msg_content_empty">没有内容!</string>
+</resources>
